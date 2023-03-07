@@ -1,0 +1,16 @@
+questão 03 
+
+a) 9
+b) 128
+c) 49
+d) 100
+e) 13
+f) 200
+
+questão 04
+
+Quando o carro e o caminhão se encontrarem, a soma distância percorrida por eles será a distância entre
+uma cidade e a outra. Como eles se encontrarão exatamente no mesmo ponto da rodovia, no momento do
+ encontro ambos estarão à mesma distância de ribeirão preto. Antes do cruzamento, o carro estará mais próximo
+de ribeirão preto. Após o cruzamento, como o carro está indo em direção à Franca e o caminhão em direção à 
+Ribeirão Preto, o caminhão estará mais próximo de Ribeirão Preto. 
